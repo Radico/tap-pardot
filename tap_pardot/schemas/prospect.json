@@ -94,7 +94,8 @@
     "city": {
       "type": [
         "null",
-        "string"
+        "string",
+        "integer"
       ]
     },
     "state": {
